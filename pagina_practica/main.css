@@ -1,0 +1,64 @@
+ 
+body {
+	font-family: monospace;
+    background-color: rgb(227, 194, 231);
+	}
+     
+h1 {
+	color: indigo;
+	font-family: Fantasy;
+	text-align: center;
+	}
+
+h2 {
+	color: rgb(42, 5, 5);
+	background-color: salmon;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+	}
+     
+p {
+	color: rgb(31, 110, 156);
+    font-size: 20px;
+    font-family: unset;
+	}
+img{
+    padding-left: 500px;
+}
+ol{
+    font-size: 20px;
+    color: rgb(163, 2, 83);
+}
+
+ul{
+    font-size: 20px;
+    color: rgb(163, 2, 83);
+}
+
+a link{
+    color: red;
+}
+
+a :visited {
+    color: orangered;
+}
+
+a :hover {
+    color: orangered;
+}
+
+.canciones{
+    color: rgb(163, 2, 83);
+}
+
+#gatito{
+        text-decoration: underline;
+        padding-left: 500px;
+        font-size: 26px;
+        color: rgb(13, 5, 47);
+    }
+
+#hola{
+    color: rgb(4, 75, 16);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
