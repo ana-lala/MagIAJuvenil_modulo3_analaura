@@ -4,7 +4,6 @@
 En esta pagina de practica es simplemente para experimentar sobre lo que aprendo en el modulo 3 
 
 Se va actualizando y cada vez le voy a ir agragando mas cosas para que sea mas bonita e interactiva :D
-
 [Pagina de practica](https://ana-lala.github.io/MagIAJuvenil_modulo3_analaura/pagina_practica/)
 
 Esta pagina es del ejercicio de reforzamiento 1:
